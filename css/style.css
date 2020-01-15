@@ -1,0 +1,86 @@
+* {
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 900px;
+    height: 300px;
+    background-color: white;
+    position: relative;
+    border: 2px solid blue;
+}
+
+.container1 {
+    width: 900px;
+    height: 300px;
+    background-color: white;
+    position: relative;
+    top: 310px;
+    border: 2px solid blue;
+}
+
+.product {
+    width: 300px;
+    height: 300px;
+    background-color: lightblue;
+    position: absolute;
+    top: 10px;
+}
+
+.primo {
+    width: 280px;
+    height: 280px;
+    left: 10px;
+    border: 1px solid grey;
+    box-sizing: content-box;
+
+}
+
+.secondo {
+    width: 280px;
+    height: 280px;
+    left: 310px;
+    border: 1px solid grey;
+    box-sizing: content-box;
+}
+
+.terzo {
+    width: 280px;
+    height: 280px;
+    left: 610px;
+    border: 1px solid grey;
+    box-sizing: content-box;
+}
+
+.green {
+    width: 40px;
+    height: 20px;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+#sconto1 {
+    position: absolute;
+    bottom: 260px;
+    left: 240px;
+}
+
+.red {
+    width: 40px;
+    height: 20px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+#sconto2 {
+    position: absolute;
+    bottom: 260px;
+    left: 240px;
+}
+
+.cuore  {
+    color: red;
+}
