@@ -55,7 +55,7 @@
     text-align: center;
 }
 
-#sconto1 {
+#sconto {
     position: absolute;
     bottom: 260px;
     left: 240px;
@@ -68,11 +68,7 @@
     color: white;
     text-align: center;
 }
-#sconto2 {
-    position: absolute;
-    bottom: 260px;
-    left: 240px;
-}
+
 
 .cuore  {
     color: rgba(255,0,0,0);
