@@ -80,10 +80,6 @@
 
 .product:hover .cuore {
     color: red;
-    font-size: 60px;
-    position: absolute;
-    top: 200px;
-    left: 125px;
     cursor: pointer;
 
 }
